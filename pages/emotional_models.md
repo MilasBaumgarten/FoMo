@@ -11,4 +11,6 @@ title: Emotional Models
 ## affective dimensional models (ADM)
 ### [[A Fuzzy Physiological Approach for Continuously Modeling Emotion during Interaction with Play Technologies]]
 ### [[Emotion Recognition Using Bio-Sensors: First Steps towards an Automatic System]]
+##
+##
 ## [[ECG Pattern Analysis for Emotion Detection]]
