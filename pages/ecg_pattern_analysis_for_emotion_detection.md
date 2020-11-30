@@ -10,3 +10,5 @@ title: ecg pattern analysis for emotion detection
 ### psychophysiological
 ### discrete emotional models
 ### affective dimensional models
+## analysis of ecg signal can recognize active experienced emotions (e.g. playing a video game)
+## passive experienced emotions are harder to recognize (at least via ecg alone)
