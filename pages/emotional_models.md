@@ -7,4 +7,5 @@ title: Emotional Models
 ### [[Toward Machine EmotionalIntelligence: Analysis of Affective Physiological State]]
 ### [[Emotion Recognition Based on Physiological Changes in Music Listening]]
 ### [[Emotion Recognition from Physiological Signals Using Wireless Sensors for Presence Technologies]]
+### [[Emotion Recognition System Using Short-Term Monitoring of Physiological Signals]]
 ## affective dimensional models (ADM)
