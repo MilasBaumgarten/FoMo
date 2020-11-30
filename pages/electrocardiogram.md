@@ -7,5 +7,6 @@ title: Electrocardiogram
 ## [[The Combined Effects of Orthostatic and Mental Stress on Heart Rate, T-Wave Amplitude, and Pulse Transit Time]]
 ## [[Phasic T-Wave Amplitude and Heart Rate Changes as Indices of Mental Effort and Task Incentive]]
 ## [[Cardiovascular Differentiation of Emotions]]
+## ECG as a biometric characteristic
 ## [[Medical Biometrics: The Perils of Ignoring Time Dependency]]
 ## [[ECG to Identify Individuals]]
