@@ -12,3 +12,5 @@ title: Electrocardiogram
 ## ECG as a biometric characteristic
 ### [[Medical Biometrics: The Perils of Ignoring Time Dependency]]
 ### [[ECG to Identify Individuals]]
+## differing experiences of emotions
+### [[PR and PP ECG Intervals as Indicators of Autonomic Nervous Innervation of the Cardiac Sinoatrial and Atrioventricular Nodes]]
