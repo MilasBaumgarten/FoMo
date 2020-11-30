@@ -8,3 +8,4 @@ title: Electrocardiogram
 ## [[Phasic T-Wave Amplitude and Heart Rate Changes as Indices of Mental Effort and Task Incentive]]
 ## [[Cardiovascular Differentiation of Emotions]]
 ## [[Medical Biometrics: The Perils of Ignoring Time Dependency]]
+## [[ECG to Identify Individuals]]
