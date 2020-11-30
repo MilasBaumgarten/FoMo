@@ -1,5 +1,5 @@
 ---
-title: Emotion Recognition Based on Physiological Changes in Music Listening
+title: ECG Pattern Analysis for Emotion Detection
 ---
 
 ##
