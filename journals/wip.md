@@ -11,4 +11,4 @@ title: ECG Pattern Analysis for Emotion Detection
 ### discrete emotional models
 ### affective dimensional models
 ##
-## [[wip]]
+## [[ECG Pattern Analysis for Emotion Detection]]
