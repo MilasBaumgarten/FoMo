@@ -9,6 +9,7 @@ title: Electrocardiogram
 #### [[Phasic T-Wave Amplitude and Heart Rate Changes as Indices of Mental Effort and Task Incentive]]
 ## other emotions
 ### [[Cardiovascular Differentiation of Emotions]]
+### [[Hilbert-Huang Transform Based Physiological Signals Analysis for Emotion Recognition]]
 ## ECG as a biometric characteristic
 ### [[Medical Biometrics: The Perils of Ignoring Time Dependency]]
 ### [[ECG to Identify Individuals]]
