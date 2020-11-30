@@ -10,5 +10,3 @@ title: ECG Pattern Analysis for Emotion Detection
 ### psychophysiological
 ### discrete emotional models
 ### affective dimensional models
-##
-##
