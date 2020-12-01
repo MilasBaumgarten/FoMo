@@ -33,6 +33,7 @@ pp. 279-285, 1995.
 ## [[Sensors]]
 ### [[Electrocardiogram]] [[Biopac ECG Module]]
 #### 2 spot sensors in a lead II configuration (right arm, left leg)
+#### 1000 Hz
 ### [[Impedence Cardiography]] [[HIC-2000]]
 #### four adhesive mylar bands (neck, torso)
 #### 1000 Hz
