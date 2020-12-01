@@ -11,7 +11,7 @@ pp. 279-285, 1995.
 ## emotional events trigger secquences of neural activity ([[Functional dissociation between medial and lateral prefrontal cortical spatiotemporal activation in negative and positive emotions: A combined fMRI/MEG]], [[Emotion and attention interaction studied through event-related potentials]], [[Dissociable prefrontal brain systems for attention and emotion]])
 ### -> changes in autonomic and neuroendocrine systems ([10], [[The psychophysiology of emotion. In: The Handbook of Emotion]])
 ## previous research showed distinct cardiovascular profiles ([31,32] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]])
-## [[Heart Rate]] showed a significant main effect of emotion (vgl. [9,37] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]])
+## [[Heart Rate]] showed a significant main effect of emotion (vgl. [37] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]]), [[The psychophysiology of emotion. In: The Handbook of Emotion]]
 ### anger -> significant increase
 ### shame ->more  increase than control group
 ### self report reduced HR increase
