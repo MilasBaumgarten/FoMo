@@ -20,6 +20,7 @@ pp. 279-285, 1995.
 ## [[Total Peripheral Resistance]] Reactivity did not exhibit main effects for emotion
 ### instead self report had a significant reaction
 ## [[Blood Pressure]] (vgl [39,40,41])
-### Systolic [[Blood Pressure]] showed a significant main effect of emotions
+### Systolic [[Blood Pressure]] showed a significant main effect of emotions for anger (not for shame)
+### Diastolic [[Blood Pressure]] showed a marginal main effect of emotion
 ## -> self report changes response to anger
 ## -> self report doesn't significantly change response to shame
