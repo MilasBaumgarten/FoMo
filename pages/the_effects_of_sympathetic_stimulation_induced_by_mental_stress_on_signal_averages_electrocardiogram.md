@@ -13,3 +13,4 @@ pp. 279-285, 1995.
 ## [[Pre-ejection Period]] also showed a significant main effect of emotion ([38])
 ### anger -> significant PEP decrease
 ### shame -> marginally greater decrease than control group
+## [[Cardiac Output]]
