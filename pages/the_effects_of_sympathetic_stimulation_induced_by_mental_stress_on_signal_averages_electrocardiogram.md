@@ -19,7 +19,7 @@ pp. 279-285, 1995.
 ### anger -> significant PEP decrease
 ### shame -> marginally greater decrease than control group
 ### self report reduced PEP increase
-## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [28] [[How attributional ambiguity shapes physiological and emotional responses to social rejection andacceptance]], [[Focus of attention, chronic expectancy, and responses to a feared stimulus]])
+## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [[How attributional ambiguity shapes physiological and emotional responses to social rejection andacceptance]], [[Focus of attention, chronic expectancy, and responses to a feared stimulus]], [[Experiencing discrimination increases risk-taking]])
 ### same reactions as before
 ### self report significantly reduced CO in anger group, not so much in shame & control group
 ## [[Total Peripheral Resistance]] Reactivity did not exhibit main effects for emotion
