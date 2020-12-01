@@ -16,3 +16,6 @@ pp. 279-285, 1995.
 ### self report reduced PEP increase
 ## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [28,23,30])
 ### same reactions as before
+### self report significantly reduced CO in anger group, not so much in shame & control group
+## TPR did not exhibit main effects for emotion
+### instead self report had a significant reaction
