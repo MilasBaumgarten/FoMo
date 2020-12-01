@@ -24,7 +24,7 @@ pp. 279-285, 1995.
 ### self report significantly reduced CO in anger group, not so much in shame & control group
 ## [[Total Peripheral Resistance]] Reactivity did not exhibit main effects for emotion
 ### instead self report had a significant reaction
-## [[Blood Pressure]] (vgl [40,41] [[Anger and hostility in cardiovascular and behavioral disorders]])
+## [[Blood Pressure]] (vgl [40,41] [[Anger and hostility in cardiovascular and behavioral disorders]], [[The experience and expression of anger: Construction and validation of an anger expression scale]])
 ### Systolic [[Blood Pressure]] showed a significant main effect of emotions for anger (not for shame)
 ### Diastolic [[Blood Pressure]] showed a marginal main effect of emotion for anger (not for shame)
 ### not effected by self report
