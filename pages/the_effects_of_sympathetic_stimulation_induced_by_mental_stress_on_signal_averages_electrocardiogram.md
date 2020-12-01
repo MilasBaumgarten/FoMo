@@ -6,7 +6,7 @@ title: The Effects of Sympathetic Stimulation Induced by Mental Stress on Signal
 Effects of Sympathetic Stimulation Induced by Mental Stress on
 Signal Averages Electrocardiogram,” Int’l J. Cardiology, vol. 48,
 pp. 279-285, 1995.
-## emotional responses: physiological systems, facial and vocal expressive tendencies and cognition ([2,3,4]) (vgl. [[Affect as a psychological primitive]])
+## emotional responses: physiological systems, facial and vocal expressive tendencies and cognition ([3,4]) (vgl. [[Affect as a psychological primitive]], [[Emotion. In: Gilbert DT]])
 ### channels influence each other over time ([5])
 ## emotional events trigger secquences of neural activity ([6,7,8])
 ### -> changes in autonomic and neuroendocrine systems ([9,10])
