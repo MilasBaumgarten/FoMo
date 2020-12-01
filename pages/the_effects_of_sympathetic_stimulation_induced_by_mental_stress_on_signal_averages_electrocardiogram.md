@@ -19,3 +19,5 @@ pp. 279-285, 1995.
 ### self report significantly reduced CO in anger group, not so much in shame & control group
 ## [[Total Peripheral Resistance]] Reactivity did not exhibit main effects for emotion
 ### instead self report had a significant reaction
+## -> self report changes response to anger
+## -> self report doesn't significantly change response to shame
