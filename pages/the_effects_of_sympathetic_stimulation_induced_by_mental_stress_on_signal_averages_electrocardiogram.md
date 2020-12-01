@@ -7,7 +7,7 @@ Effects of Sympathetic Stimulation Induced by Mental Stress on
 Signal Averages Electrocardiogram,” Int’l J. Cardiology, vol. 48,
 pp. 279-285, 1995.
 ## emotional responses: physiological systems, facial and vocal expressive tendencies and cognition (vgl. [[Affect as a psychological primitive]], [[Emotion. In: The handbook of social psychology]], [[Measurement issues in emotion research]])
-### channels influence each other over time ([5])
+### channels influence each other over time ([[What are emotions? And how can they be measured?]])
 ## emotional events trigger secquences of neural activity ([6,7,8])
 ### -> changes in autonomic and neuroendocrine systems ([9,10])
 ## previous research showed distinct cardiovascular profiles ([31,32,30])
