@@ -7,7 +7,7 @@ Effects of Sympathetic Stimulation Induced by Mental Stress on
 Signal Averages Electrocardiogram,” Int’l J. Cardiology, vol. 48,
 pp. 279-285, 1995.
 ## [[Heart Rate]] showed a significant main effect of emotion (vgl. [9,37,30])
-### anger -> increased
-### shame -> minor increased [[Heart Rate]]
+### anger -> significant increase
+### shame -> minor increased
 ### control group - no significant change
 ##
