@@ -21,6 +21,7 @@ pp. 279-285, 1995.
 ### instead self report had a significant reaction
 ## [[Blood Pressure]] (vgl [39,40,41])
 ### Systolic [[Blood Pressure]] showed a significant main effect of emotions for anger (not for shame)
-### Diastolic [[Blood Pressure]] showed a marginal main effect of emotion
+### Diastolic [[Blood Pressure]] showed a marginal main effect of emotion for anger (not for shame)
+### not effected by self report
 ## -> self report changes response to anger
 ## -> self report doesn't significantly change response to shame
