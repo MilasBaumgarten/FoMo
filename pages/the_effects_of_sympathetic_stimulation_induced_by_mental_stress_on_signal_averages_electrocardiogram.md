@@ -30,3 +30,8 @@ pp. 279-285, 1995.
 ### not effected by self report
 ## -> self report changes response to anger
 ## -> self report doesn't significantly change response to shame
+## [[Sensors]]
+### [[Electrocardiogram]] [[Biopac ECG Module]]
+### [[Impedence Cardiography]] [[HIC-2000]]
+### [[Blood Pressure]] [[Colin Prodigy]]
+### Integration [[Biopac MP 150]]
