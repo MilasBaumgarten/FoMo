@@ -10,6 +10,7 @@ pp. 279-285, 1995.
 ### channels influence each other over time ([5])
 ## emotional events trigger secquences of neural activity ([6,7,8])
 ### -> changes in autonomic and neuroendocrine systems ([9,10])
+## previous research showed distinct cardiovascular profiles
 ## [[Heart Rate]] showed a significant main effect of emotion (vgl. [9,37,30])
 ### anger -> significant increase
 ### shame ->more  increase than control group
