@@ -8,4 +8,6 @@ Signal Averages Electrocardiogram,” Int’l J. Cardiology, vol. 48,
 pp. 279-285, 1995.
 ## heart rate showed a significant main effect of emotion (vgl. [9,37,30])
 ### anger -> increased [[Heart Rate]]
-###
+### shame -> minor increased [[Heart Rate]]
+### control group - no significant change
+##
