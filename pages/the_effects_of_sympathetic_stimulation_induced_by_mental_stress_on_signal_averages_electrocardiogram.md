@@ -10,7 +10,7 @@ pp. 279-285, 1995.
 ### channels influence each other over time ([[What are emotions? And how can they be measured?]])
 ## emotional events trigger secquences of neural activity ([6,7,8])
 ### -> changes in autonomic and neuroendocrine systems ([9,10])
-## previous research showed distinct cardiovascular profiles ([31,32,30])
+## previous research showed distinct cardiovascular profiles ([31,32,30] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]])
 ## [[Heart Rate]] showed a significant main effect of emotion (vgl. [9,37,30])
 ### anger -> significant increase
 ### shame ->more  increase than control group
