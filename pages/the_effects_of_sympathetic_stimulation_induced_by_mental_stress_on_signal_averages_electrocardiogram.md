@@ -10,8 +10,8 @@ pp. 279-285, 1995.
 ### channels influence each other over time ([[What are emotions? And how can they be measured?]])
 ## emotional events trigger secquences of neural activity ([[Functional dissociation between medial and lateral prefrontal cortical spatiotemporal activation in negative and positive emotions: A combined fMRI/MEG]], [[Emotion and attention interaction studied through event-related potentials]], [[Dissociable prefrontal brain systems for attention and emotion]])
 ### -> changes in autonomic and neuroendocrine systems ([10], [[The psychophysiology of emotion. In: The Handbook of Emotion]])
-## previous research showed distinct cardiovascular profiles ([31,32] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]])
-## [[Heart Rate]] showed a significant main effect of emotion (vgl. [37] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]]), [[The psychophysiology of emotion. In: The Handbook of Emotion]]
+## previous research showed distinct cardiovascular profiles ([31,32] [[How attributional ambiguity shapes physiological and emotional responses to social rejection andacceptance]])
+## [[Heart Rate]] showed a significant main effect of emotion (vgl. [37] [[How attributional ambiguity shapes physiological and emotional responses to social rejection andacceptance]]), [[The psychophysiology of emotion. In: The Handbook of Emotion]]
 ### anger -> significant increase
 ### shame ->more  increase than control group
 ### self report reduced HR increase
@@ -19,7 +19,7 @@ pp. 279-285, 1995.
 ### anger -> significant PEP decrease
 ### shame -> marginally greater decrease than control group
 ### self report reduced PEP increase
-## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [28,23] [[How attributionalambiguity shapes physiological and emotional responses to social rejection andacceptance]])
+## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [28,23] [[How attributional ambiguity shapes physiological and emotional responses to social rejection andacceptance]])
 ### same reactions as before
 ### self report significantly reduced CO in anger group, not so much in shame & control group
 ## [[Total Peripheral Resistance]] Reactivity did not exhibit main effects for emotion
