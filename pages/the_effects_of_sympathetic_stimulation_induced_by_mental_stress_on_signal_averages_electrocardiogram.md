@@ -38,4 +38,7 @@ pp. 279-285, 1995.
 #### four adhesive mylar bands (neck, torso)
 #### 1000 Hz
 ### [[Blood Pressure]] [[Colin Prodigy]]
+#### measured intermittently at pre-defined intervals
+##### frequent [[Blood Pressure]]  measurement might artificially elevate BP levels
+#### -> some data loss
 ### Integration [[Biopac MP 150]]
