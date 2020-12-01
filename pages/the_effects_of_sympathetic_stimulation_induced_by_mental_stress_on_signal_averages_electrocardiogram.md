@@ -8,8 +8,7 @@ Signal Averages Electrocardiogram,” Int’l J. Cardiology, vol. 48,
 pp. 279-285, 1995.
 ## emotional responses: physiological systems, facial and vocal expressive tendencies and cognition (vgl. [[Affect as a psychological primitive]], [[Emotion. In: The handbook of social psychology]], [[Measurement issues in emotion research]])
 ### channels influence each other over time ([[What are emotions? And how can they be measured?]])
-## emotional events trigger secquences of neural activity ([6,7,8] [[Functional dissociation between medial and lateral prefrontal cortical spatiotemporal activation in negative and positive emotions: A combined fMRI/MEG]], Carreti L, Martin-Loeches M, Hinojosa JA, Mercado F (2001) Emotion and
-attention interaction studied through event-related potentials
+## emotional events trigger secquences of neural activity ([6,7,8] [[Functional dissociation between medial and lateral prefrontal cortical spatiotemporal activation in negative and positive emotions: A combined fMRI/MEG]], [[Emotion and attention interaction studied through event-related potentials]]
 ### Yamasaki H, LaBar KS, McCarthy G (2002) Dissociable prefrontal brain
 systems for attention and emotion. Proc Nat Acad Sci, USA 99: 11447–51.)
 ### -> changes in autonomic and neuroendocrine systems ([9,10])
