@@ -14,3 +14,4 @@ pp. 279-285, 1995.
 ### anger -> significant PEP decrease
 ### shame -> marginally greater decrease than control group
 ## [[Cardiac Output]] also showed a significant main effect of emotion (differing results in prior research [28,23,30])
+### same reactions as before
