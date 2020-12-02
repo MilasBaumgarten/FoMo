@@ -3,8 +3,8 @@ title: ecg pattern analysis for emotion detection
 ---
 
 ## F. Agrafioti, D. Hatzinakos, and A. Anderson, "ECG Pattern Analysis for Emotion Detection", Affective Computing, IEEE Transactions on, vol. 3, pp. 1–1, Jan. 2012, doi: 10.1109/T-AFFC.2011.28.
-## other measurement types + further research [[Sensors]]
-### [[Sens]]
+## other measurement types + further research
+### [[Sensors]]
 ## [[Emotional Models]]
 ## [[research terms]]:
 ### psychophysiological
