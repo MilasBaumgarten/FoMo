@@ -10,6 +10,7 @@ title: Sensors
 ## [[Galvanic Skin Response]]
 ### pot measurement for emotional disclosure
 ## [[Blood Volume Pressure]]
+### pot factor (look at sources)
 ## [[Heart Rate]]
 ### significant factor for emotions
 ## [[Heart Rate Variability]]
