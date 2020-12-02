@@ -11,6 +11,7 @@ title: Sensors
 ### pot measurement for emotional disclosure
 ## [[Blood Volume Pressure]]
 ### pot factor (look at sources)
+##
 ## [[Heart Rate]]
 ### significant factor for emotions
 ## [[Heart Rate Variability]]
@@ -19,4 +20,4 @@ title: Sensors
 ## [[Respiration Rate]]
 ## [[Total Peripheral Resistance]]
 ## [[Pre-ejection Period]]
-##
+## [[Cardiac Output]]
