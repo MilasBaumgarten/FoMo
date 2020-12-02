@@ -21,3 +21,4 @@ title: Sensors
 ## [[Total Peripheral Resistance]]
 ## [[Pre-ejection Period]]
 ## [[Cardiac Output]]
+## [[Impedence Cardiography]]
