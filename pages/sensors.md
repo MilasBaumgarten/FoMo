@@ -13,5 +13,6 @@ title: Sensors
 ## [[Heart Rate]]
 ### significant factor for emotions
 ## [[Heart Rate Variability]]
+### pot. factor (look at sources)
 ## [[Temperature]]
 ## [[Respiration Rate]]
