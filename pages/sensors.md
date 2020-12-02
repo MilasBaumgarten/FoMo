@@ -11,6 +11,7 @@ title: Sensors
 ### pot measurement for emotional disclosure
 ## [[Blood Volume Pressure]]
 ## [[Heart Rate]]
+### significant factor for emotions
 ## [[Heart Rate Variability]]
 ## [[Temperature]]
 ## [[Respiration Rate]]
