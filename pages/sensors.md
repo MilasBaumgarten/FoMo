@@ -8,6 +8,7 @@ title: Sensors
 ## [[Electromyogram]]
 ## [[Electroencephalogram]]
 ## [[Galvanic Skin Response]]
+### pot measurement for emotional disclosure
 ## [[Blood Volume Pressure]]
 ## [[Heart Rate]]
 ## [[Heart Rate Variability]]
