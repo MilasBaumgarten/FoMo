@@ -3,6 +3,7 @@ title: Electrocardiogram
 ---
 
 ### stress
+####
 #### [[The Combined Effects of Orthostatic and Mental Stress on Heart Rate, T-Wave Amplitude, and Pulse Transit Time]]
 #### [[Phasic T-Wave Amplitude and Heart Rate Changes as Indices of Mental Effort and Task Incentive]]
 ## other emotions
